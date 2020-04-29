@@ -14,5 +14,5 @@
 // ==/UserScript==
 
 (() => {
-    window.Notification = null;
+    unsafeWindow.Notification = null;
 })();
