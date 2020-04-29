@@ -3,7 +3,7 @@
 // @description  remove notifications
 // @namespace    https://github.com/shosatojp/fuck-notification
 // @homepage     https://github.com/shosatojp/fuck-notification
-// @version      0.1
+// @version      0.1.1
 // @author       Sho Sato
 // @match        *://*/*
 // @require      file:///home/sho/repos/fuck-notification/main.user.js
